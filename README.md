@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+    React is a javascript library that makes building user interfaces in such a way that you can more easily break different compononents down to their individual parts before bringing it all together.
+
 - [ ] What does it mean to _think_ in react?
+
+    It means understanding the flow and hierarchy of your app.
 
 - [ ] Describe state.
 
+    State holds something in one state and allows you to easily changed that state.
+
 - [ ] Describe props.
 
+    Props are properties that are passed down to children within the react hierarchy.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+    Side effects can run asynchronously, that is at the same time but waiting for everything to finish. This can be acheived with the async tag.
 
 ## Project Set Up
 
